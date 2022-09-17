@@ -1,12 +1,10 @@
 <resources>
     <string name="app_name">NasaPhotosApp</string>
     <string name="photo_title">Título de la Foto</string>
-    <string name="title_list">Images</string>
+    <string name="title_list">Fotos</string>
     <string name="title_favorites">Favoritos</string>
     <string name="title_detail">Detalle</string>
-    <string name="release_date_label">Release date:</string>
-    <string name="release_date_example">30-nov-2020</string>
-    <string name="vote_average_example">10</string>
-    <string name="vote_average_label">Vote average:</string>
     <string name="summary">Resumen</string>
+    <string name="accept">Aceptar</string>
+    <string name="Cancel">Cancelar</string>
 </resources>
